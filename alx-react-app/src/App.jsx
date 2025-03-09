@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <h1><UserProfile></UserProfile></h1>
-     <><Header /><MainContent /><Footer /><UserProfile name="Alice" age="25" bio="Loves hiking and photo" /></>
+     <><Header /><MainContent /><Footer /><UserProfile name="Alice" age="25" bio="Loves hiking and photography" /></>
     </div>
   );
 }
